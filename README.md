@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:85C1E9,100:2E86C1&height=200&section=header&text=Hi%20there!%20I'm%20eunchrri%20👋&fontSize=40&fontAlignY=40&desc=Frontend%20Developer%20%7C%20React%20%7C%20JavaScript&descAlign=62&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=e6a9b2&height=220&section=header&text=Hi,%20I'm%20@eunchrri%20👋&fontSize=40&fontColor=333333&desc=FullStack%20Developer%20%7C%20React%2C%20JavaScript%2C%20TypeScript%20%7C%20Spring%20Java&descSize=18&descAlign=50&descAlignY=70)
+
 
 
 - 👋 Hi, I’m @eunchrri
