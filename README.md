@@ -1,5 +1,7 @@
 <!-- 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=e6a9b2&height=300&section=header&text=Hi,%20I'm%20@eunchrri%20🌏&fontSize=60&fontColor=333333&fontAlign=50&fontAlignY=45&desc=FullStack%20Developer%20%7C%20React%2C%20JavaScript%2C%20TypeScript%20%7C%20Spring%20Java&descSize=18&descAlign=53&descAlignY=58)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e6a9b2&height=300&section=header&text=Hi,%20I'm%20@eunchrri%20🌏&fontSize=60&fontColor=333333&fontAlign=50&fontAlignY=45&desc=FullStack%20Developer%20%7C%20React%2C%20JavaScript%2C%20TypeScript%20%7C%20Spring%20Java&descSize=18&descAlign=53&descAlignY=58" width="100%"/>
+</p>
 
 ---
 
