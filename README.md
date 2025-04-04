@@ -1,10 +1,10 @@
 <!-- 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=e6a9b2&height=300&section=header&text=Hi,%20I'm%20@eunchrri%20🌏&fontSize=60&fontColor=333333&fontAlign=50&fontAlignY=45&desc=%3C%20FullStack%20Developer%20/%3E&descSize=20&descAlign=62&descAlignY=60" width="100%"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=e6a9b2&height=300&section=header&text=Hi,%20I'm%20@eunchrri%20🌏&fontSize=60&fontColor=333333&fontAlign=50&fontAlignY=45&desc=%3C%20FullStack%20Developer%20%2F%3E&descSize=20&descAlign=62&descAlignY=60" 
+    width="100%" 
+  />
 </p>
-
-
-
 
 ---
 
