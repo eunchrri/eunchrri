@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:85C1E9,100:2E86C1&height=200&section=header&text=Hi%20there!%20I'm%20Jiho%20👋&fontSize=40&fontAlignY=40&desc=Frontend%20Developer%20%7C%20React%20%7C%20JavaScript&descAlign=62&descAlignY=60)
+
+
 - 👋 Hi, I’m @eunchrri
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
