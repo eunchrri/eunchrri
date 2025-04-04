@@ -3,17 +3,20 @@
 
 ---
 
-- 👋 Hi, I’m @eunchrri
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
 
+  
+### 👋 Hi, I'm @eunchrri  
+👀 I’m interested in ...  
+🌱 I’m currently learning ...  
+💖 I’m looking to collaborate on ...  
+📫 How to reach me ...  
+😄 Pronouns: ...  
+⚡ Fun fact: ...  
+  
 ---
 
-## ✨ Tech Stack
+## 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -34,7 +37,7 @@
 
 ---
 
-## 🛠 Tools
+## ⚒️ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -48,3 +51,6 @@
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@eunchrri)
 [![Gmail](https://img.shields.io/badge/eunchrri@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eunchrri@gmail.com)
+
+</div>
+
