@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=e6a9b2&height=200&section=header&text=Hi,%20I'm%20@eunchrri%20👋&fontSize=50&fontColor=333333&fontAlignY=30&desc=FullStack%20Developer%20%7C%20React%2C%20JavaScript%2C%20TypeScript%20%7C%20Spring%20Java&descSize=18&descAlign=50&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=e6a9b2&height=400&section=header&text=Hi,%20I'm%20@eunchrri%20👋&fontSize=50&fontColor=333333&fontAlignY=70&desc=FullStack%20Developer%20%7C%20React%2C%20JavaScript%2C%20TypeScript%20%7C%20Spring%20Java&descSize=20&descAlign=50&descAlignY=85)
+
 
 
 
