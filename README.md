@@ -1,5 +1,6 @@
 <!-- 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=e6a9b2&text=Hi,%20I'm%20@eunchrri%20🌏&desc=	<%20FullStack%20Developer%20/>&descSize=20&fontColor=333333&fontSize=60&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=e6a9b2&text=Hi,%20I'm%20@eunchrri%20🌏&desc=%3C%20FullStack%20Developer%20/%3E&descSize=20&fontColor=333333&fontSize=60&animation=twinkling)
+
 
 
 ---
